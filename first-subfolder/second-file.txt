@@ -1,1 +1,4 @@
 second file
+
+This file was modified in the main 
+	branch before third commit.
